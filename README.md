@@ -1,2 +1,2 @@
 # RepositorioHenry
-EJERCICIO 01 M02
+EJERCICIO M02
